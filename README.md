@@ -1,8 +1,4 @@
 ## Todo List Flutter!!
 
-#Organize seus processos com um todo List V1 <br/>
--Adicione tarefas
--Remova tarefas
--Confira o titulo e data
--Cancele remoção
+#Organize seus processos com um todo List V1
 
